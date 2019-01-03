@@ -1,0 +1,30 @@
+{
+  "name": "value",
+  "version": "1.0.0",
+  "description": "App Landing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "APeltik",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.8.4",
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-image": "^4.4.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "jpegoptim-bin": "^5.1.0"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.12",
+    "gulp": "3.x.x"
+  }
+}

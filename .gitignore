@@ -1,0 +1,11 @@
+# Build folder
+/dist/
+
+# Dependency directory
+node_modules
+
+# phpstorm files
+.idea/
+
+# Garbage files
+.DS_Store
